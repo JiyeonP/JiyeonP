@@ -1,11 +1,9 @@
 ---
 layout: post
-title: EC2 - (1) EC2는 무엇일까?
-date: 2022-03-19 02:32:20 +0300
-description: # Add post description (optional)
+title: EC2
+subtitle: (1) EC2는 무엇일까?
 img: ec2.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
-tags: [Deployment, AWS, EC2, Frontend]
+tags: [Deployment, AWS, EC2, Frontend, Computer, Web]
 category: [Deployment]
 ---
 

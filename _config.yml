@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: 기록하고 싶은 것들의 총체
+email: j0u0rney@gmail.com
+author: JiyeonP
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -49,7 +49,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
-favicon: "" # the favicon for your site
+favicon: "/assets/images/유니콘.png" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -121,7 +121,7 @@ yat:
 # brand_color: orangered
 #
 # Custom color as below:
-# brand_color: "#1a8e42"
+brand_color: "#9777dd"
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -156,8 +156,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+heading: "영원한 기억"
+subheading: "For eternal memory"
 #     banner: "Your image url"
 
 # Banner default settings
