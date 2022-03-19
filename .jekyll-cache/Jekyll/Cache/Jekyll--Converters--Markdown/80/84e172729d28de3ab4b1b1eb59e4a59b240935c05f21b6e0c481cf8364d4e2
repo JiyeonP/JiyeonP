@@ -1,0 +1,30 @@
+I"E<h1 id="amazon-ec2-amazon-elastic-compute-cloud">Amazon EC2 (Amazon Elastic Compute Cloud)</h1>
+<h3 id="컴퓨터를-임차할-수-있는-서비스">컴퓨터를 임차할 수 있는 서비스</h3>
+<p>EC2는 Amazon Web Services(AWS) 클라우드에서 컴퓨팅 용량을 제공하는 웹 서비스다.
+쉽게 말해, EC2를 사용하면 컴퓨터 한 대를 임차하는 효과를 얻을 수 있다. <br />
+처음 EC2 서비스를 이용하려고 페이지에 들어가면 어떤 의미인지 곧바로 파악하기 힘든 단어들이 등장한다.
+<code class="language-plaintext highlighter-rouge">인스턴스</code>, <code class="language-plaintext highlighter-rouge">AMI</code>, <code class="language-plaintext highlighter-rouge">키 페어</code>, … <br />
+또한, EC2는 어떤 프로그램 배포에 적합하고 그 이유는 무엇인지, 보안은 잘 되는지, 사용하면서 요금은 얼마나 나가는 지 등등.
+궁금한 것들을 모두 조사해보았다.</p>
+
+<p><span style="color: red"><a href="#인스턴스-및-AMI">1. 인스턴스 및 AMI</a></span></p>
+
+<hr />
+<h3 id="인스턴스-및-ami">인스턴스 및 AMI</h3>
+<p>####(1) Amazon Machine Image (AMI)
+<code class="language-plaintext highlighter-rouge">EC2</code>는 컴퓨터를 임차할 수 있는 서비스라고 요약했다.
+EC2를 가구점에 비유한다면, <code class="language-plaintext highlighter-rouge">AMI</code>는 가장 기본적인 요소만 구현된 가구 샘플.
+즉, 임차하려고 하는 컴퓨터의 기본 스펙(소프트웨어 구성)이 기재된 템플릿이다.
+소프트웨어 구성은 운영 체제, 애플리케이션 서버, 애플리케이션을 포함한다.</p>
+
+<p>####(2) 인스턴스
+<code class="language-plaintext highlighter-rouge">인스턴스</code>는 주문서 양식에 내가 원하는 소프트웨어 구성을 기입한 나만의 주문서다.
+AMI의 사본으로, 실제 내가 사용하게 될, 클라우드에서 실행되는 가상 서버를 의미한다.</p>
+
+<p>(작성중)</p>
+
+<hr />
+<p>출처</p>
+
+<p><a href="https://docs.aws.amazon.com">AWS 공식문서</a></p>
+:ET
