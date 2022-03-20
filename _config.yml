@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 기록하고 싶은 것들의 총체
+title: Record Everything
 email: j0u0rney@gmail.com
 author: JiyeonP
 
@@ -157,7 +157,7 @@ brand_color: "#9777dd"
 # defaults:
 #   home:
 heading: "영원한 기억"
-subheading: "For eternal memory"
+subheading: "For the eternal memory"
 #     banner: "Your image url"
 
 # Banner default settings

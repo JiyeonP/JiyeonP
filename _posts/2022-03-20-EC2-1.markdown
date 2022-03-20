@@ -4,7 +4,7 @@ title: EC2
 subtitle: (1) EC2는 무엇일까?
 img: ec2.png # Add image post (optional)
 tags: [Deployment, AWS, EC2, Frontend, Computer, Web]
-category: [Deployment]
+category: [Computer/Deployment]
 ---
 
 ## Amazon EC2 (Amazon Elastic Compute Cloud)
