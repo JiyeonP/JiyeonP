@@ -26,8 +26,12 @@
         <div>
           <h2 class="post-title">
             <a class="post-link" href="{{ post_url }}">
-              {{ post.title | escape }}
-            </a>
+              <span>
+              {{ post.title }}
+              </span>
+              <span style="font-size: 14px;">
+              {{ post.subtitle | escape }}
+              </span>
           </h2>
           <div class="post-meta">
             <span class="post-date"><i class="fa fa-calendar"></i> {{ post.date | date: date_format }}</span>

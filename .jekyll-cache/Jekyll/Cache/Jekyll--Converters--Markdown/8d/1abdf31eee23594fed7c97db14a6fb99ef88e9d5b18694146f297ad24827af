@@ -1,0 +1,30 @@
+I"-<h2 id="gaussian-elimination">Gaussian Elimination</h2>
+<p><strong>선형 방정식을 푸는 대표적인 알고리즘 중의 하나</strong></p>
+
+<hr />
+
+<h3 id="1-crammers-rule">1. Crammer’s Rule</h3>
+
+<hr />
+
+<h3 id="2-gaussian-elimination-알고리즘">2. Gaussian Elimination 알고리즘</h3>
+
+<hr />
+
+<h3 id="3-two-triangular-steps">3. Two Triangular Steps</h3>
+
+<h4 id="1-matrix-factorization">(1) Matrix Factorization</h4>
+<p><strong><em>V</em></strong> 에 속하는 어떤 두 벡터 <strong>a</strong>, <strong>b</strong>에 대해서도</p>
+
+<h4 id="첨언">첨언</h4>
+<p>위의 벡터 공간 정의에서는 스칼라를 실수 범위에서 정의하였다.
+이것이 일반적이나, 유리수 범위나 복소수 범위에서 스칼라를 정의하기도 한다.
+따라서 우리가 정의한 벡터 공간은 엄밀히 말하자면,
+<code>a vector space <b><i>V</i></b> over ℝ</code>이다.</p>
+
+<hr />
+<h3 id="출처">출처</h3>
+<p>Advanced Engineering Mathematics, 10/e by Erwin Kreyszig</p>
+
+<p><a href="https://docs.aws.amazon.com"></a></p>
+:ET
